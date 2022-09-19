@@ -1,7 +1,10 @@
 # Smart-Parking-System-Using-Arduino-Merge-with-DL-web-Apps
-Smart Parking System 
+Embedded system
 
 *Abstract*
+
+
+
 In the ongoing investigations in metropolitan cities,
 population growth produces high vehicle density on
 roads. As a result, this leads to an annoying problem
